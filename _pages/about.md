@@ -61,7 +61,7 @@ My research interests include multimodality Learning, visual understanding, and 
 
 [Diffusionret: Generative text-video retrieval with diffusion model](https://openaccess.thecvf.com/content/ICCV2023/papers/Jin_DiffusionRet_Generative_Text-Video_Retrieval_with_Diffusion_Model_ICCV_2023_paper.pdf)
 
-Peng Jin\star, **Hao Li\star**, Zesen Cheng, Kehan Li, Xiangyang Ji, Chang Liu, Li Yuan, Jie Chen
+Peng Jin*, Hao Li$\star$, Zesen Cheng, Kehan Li, Xiangyang Ji, Chang Liu, Li Yuan, Jie Chen
 
 [**Project**]([https://github.com/HowardLi1984/ECDFormer](https://github.com/jpthu17/DiffusionRet)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Official Code for the DiffusionRet model.
@@ -69,12 +69,12 @@ Peng Jin\star, **Hao Li\star**, Zesen Cheng, Kehan Li, Xiangyang Ji, Chang Liu, 
 </div>
 
 # 🎖 Honors and Awards
-- *2023.9* Hongqiao Scholarship in Peking University(Top 1%). 
+- *2023.9* Hongqiao Scholarship in Peking University (Top 1%). 
 
 # 📖 Educations
 - *2023.09 - now*, PhD Candidate, School of Computer Science, Peking University.
-- *2021.09 - 2023.09*, Master, School of Electronics and Computer Engineering(ECE), Peking University. 
-- *2017.09 - 2021.06*, Bachelor, in School of Electronics Engineering and Computer Science(EECS), Peking University. 
+- *2021.09 - 2023.09*, Master, School of Electronics and Computer Engineering (ECE), Peking University. 
+- *2017.09 - 2021.06*, Bachelor, in School of Electronics Engineering and Computer Science (EECS), Peking University. 
 
 # 💻 Internships
 - *2022.07 - 2023.02*, Mentored by [Songyang Zhang](https://scholar.google.com/citations?user=8XQPi7YAAAAJ&hl=en&oi=ao), OpenMMLab, Shanghai AI Lab, China.
