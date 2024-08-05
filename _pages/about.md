@@ -61,7 +61,7 @@ My research interests include multimodality Learning, visual understanding, and 
 
 [Diffusionret: Generative text-video retrieval with diffusion model](https://openaccess.thecvf.com/content/ICCV2023/papers/Jin_DiffusionRet_Generative_Text-Video_Retrieval_with_Diffusion_Model_ICCV_2023_paper.pdf)
 
-Peng Jin*, Hao Li$\star$, Zesen Cheng, Kehan Li, Xiangyang Ji, Chang Liu, Li Yuan, Jie Chen
+Peng Jin*, Hao Li*, Zesen Cheng, Kehan Li, Xiangyang Ji, Chang Liu, Li Yuan, Jie Chen
 
 [**Project**]([https://github.com/HowardLi1984/ECDFormer](https://github.com/jpthu17/DiffusionRet)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Official Code for the DiffusionRet model.
