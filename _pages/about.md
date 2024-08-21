@@ -32,7 +32,7 @@ My research interests include multimodality Learning, visual understanding, and 
 
 # 📝 Selected Publications and Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://arxiv.org/abs/2312.02428)
@@ -56,12 +56,12 @@ My research interests include multimodality Learning, visual understanding, and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Computational Science reviewing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Diffusionret: Generative text-video retrieval with diffusion model](https://openaccess.thecvf.com/content/ICCV2023/papers/Jin_DiffusionRet_Generative_Text-Video_Retrieval_with_Diffusion_Model_ICCV_2023_paper.pdf)
 
-Peng Jin*, Hao Li*, Zesen Cheng, Kehan Li, Xiangyang Ji, Chang Liu, Li Yuan, Jie Chen
+**Hao Li**, Peng Jin, Zesen Cheng, Kehan Li, Xiangyang Ji, Chang Liu, Li Yuan, Jie Chen
 
 [**Project**]([https://github.com/HowardLi1984/ECDFormer](https://github.com/jpthu17/DiffusionRet)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Official Code for the DiffusionRet model.
