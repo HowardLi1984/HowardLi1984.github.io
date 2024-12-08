@@ -77,5 +77,6 @@ My research interests include multimodality Learning, visual understanding, and 
 - *2017.09 - 2021.06*, Bachelor, in School of Electronics Engineering and Computer Science (EECS), Peking University. 
 
 # 💻 Internships
-- *2022.07 - 2023.02*, Mentored by [Songyang Zhang](https://scholar.google.com/citations?user=8XQPi7YAAAAJ&hl=en&oi=ao), OpenMMLab, Shanghai AI Lab, China.
-- *2020.07 - 2021.09*, Mentored by [Xu Li](https://scholar.google.com/citations?hl=en&user=qtSYO44AAAAJ&view_op=list_works&sortby=pubdate), Cognitive Computing Lab, Baidu Research, China.
+- *2024.12 - present*, Mentored by [Yu Li](https://scholar.google.com/citations?user=j9lwU7kAAAAJ&hl=en&oi=ao), International Digital Economy Academy, Shenzhen, China.
+- *2022.07 - 2023.02*, Mentored by [Songyang Zhang](https://scholar.google.com/citations?user=8XQPi7YAAAAJ&hl=en&oi=ao), OpenMMLab, Shanghai AI Lab, Shanghai, China.
+- *2020.07 - 2021.09*, Mentored by [Xu Li](https://scholar.google.com/citations?hl=en&user=qtSYO44AAAAJ&view_op=list_works&sortby=pubdate), Cognitive Computing Lab, Baidu Research, Beijing, China.
