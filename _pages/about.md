@@ -31,7 +31,6 @@ My research interests include multimodality Learning, visual understanding, and 
 - *2022.08*: &nbsp;🎉🎉 One oral paper accepted by The International Conference on Multimedia and Expo(ICME-2022-Oral).
 
 # 📝 Selected Publications and Preprints
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/FreestyleRet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,7 +60,7 @@ My research interests include multimodality Learning, visual understanding, and 
 
 [Diffusionret: Generative text-video retrieval with diffusion model](https://openaccess.thecvf.com/content/ICCV2023/papers/Jin_DiffusionRet_Generative_Text-Video_Retrieval_with_Diffusion_Model_ICCV_2023_paper.pdf)
 
-**Hao Li**, Peng Jin, Zesen Cheng, Kehan Li, Xiangyang Ji, Chang Liu, Li Yuan, Jie Chen
+**Hao Li**, Peng Jin, Zesen Cheng, Kehan Li, Chang Liu, Li Yuan, Jie Chen
 
 [**Project**]([https://github.com/HowardLi1984/ECDFormer](https://github.com/jpthu17/DiffusionRet)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Official Code for the DiffusionRet model.
@@ -72,11 +71,11 @@ My research interests include multimodality Learning, visual understanding, and 
 - *2023.9* Hongqiao Scholarship in Peking University (Top 1%). 
 
 # 📖 Educations
+- *2017.09 - 2021.06*, Bachelor, in School of Electronics Engineering and Computer Science (EECS), Peking University.
+- *2021.09 - 2023.09*, Master, School of Electronics and Computer Engineering (ECE), Peking University.
 - *2023.09 - now*, PhD Candidate, School of Computer Science, Peking University.
-- *2021.09 - 2023.09*, Master, School of Electronics and Computer Engineering (ECE), Peking University. 
-- *2017.09 - 2021.06*, Bachelor, in School of Electronics Engineering and Computer Science (EECS), Peking University. 
 
 # 💻 Internships
-- *2024.12 - present*, Mentored by [Yu Li](https://scholar.google.com/citations?user=j9lwU7kAAAAJ&hl=en&oi=ao), International Digital Economy Academy, Shenzhen, China.
-- *2022.07 - 2023.02*, Mentored by [Songyang Zhang](https://scholar.google.com/citations?user=8XQPi7YAAAAJ&hl=en&oi=ao), OpenMMLab, Shanghai AI Lab, Shanghai, China.
 - *2020.07 - 2021.09*, Mentored by [Xu Li](https://scholar.google.com/citations?hl=en&user=qtSYO44AAAAJ&view_op=list_works&sortby=pubdate), Cognitive Computing Lab, Baidu Research, Beijing, China.
+- *2022.07 - 2023.02*, Mentored by [Songyang Zhang](https://scholar.google.com/citations?user=8XQPi7YAAAAJ&hl=en&oi=ao), OpenMMLab, Shanghai AI Lab, Shanghai, China.
+- *2024.12 - present*, Mentored by [Yu Li](https://scholar.google.com/citations?user=j9lwU7kAAAAJ&hl=en&oi=ao), International Digital Economy Academy, Shenzhen, China.
