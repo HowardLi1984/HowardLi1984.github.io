@@ -23,8 +23,8 @@ My research interests include multimodality Learning, visual understanding, and 
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One papers accepted by **Nature Computational Science**.
 - *2024.08*: &nbsp;🎉🎉 Two papers accepted by The 18th European Conference on Computer Vision(ECCV-2024).
-- *2024.06*: &nbsp;🎉🎉 One papers submitted to **Nature Computational Science** and in reviewing process.
 - *2023.08*: &nbsp;🎉🎉 One paper accepted by The International Conference on Computer Vision(ICCV-2023).
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by Transactions on Image Processing(TIP).
 - *2023.04*: &nbsp;🎉🎉 Three paper accepted by The International Joint Conference on Artifical Intelligence(IJCAI-2023).
@@ -44,7 +44,7 @@ My research interests include multimodality Learning, visual understanding, and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Computational Science reviewing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Computational Science 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Decoupled peak property learning for efficient and interpretable ECD spectra prediction](https://arxiv.org/abs/2401.03403)
