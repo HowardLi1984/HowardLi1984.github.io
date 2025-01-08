@@ -46,7 +46,7 @@ My research interests include multimodality Learning, visual understanding, and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Computational Science 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Decoupled peak property learning for efficient and interpretable ECD spectra prediction](https://arxiv.org/abs/2401.03403)
+[Decoupled peak property learning for efficient and interpretable ECD spectra prediction](https://www.nature.com/articles/s43588-024-00757-7)
 
 **Hao Li**, Da Long, Li Yuan, Yu Wang, Yonghong Tian, Xinchang Wang, Fanyang Mo
 
@@ -62,7 +62,7 @@ My research interests include multimodality Learning, visual understanding, and 
 
 **Hao Li**, Peng Jin, Zesen Cheng, Kehan Li, Chang Liu, Li Yuan, Jie Chen
 
-[**Project**]([https://github.com/HowardLi1984/ECDFormer](https://github.com/jpthu17/DiffusionRet)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/jpthu17/DiffusionRet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Official Code for the DiffusionRet model.
 </div>
 </div>
