@@ -51,7 +51,7 @@ My research interests include multimodality Learning, visual understanding, and 
 **Hao Li**, Da Long, Li Yuan, Yu Wang, Yonghong Tian, Xinchang Wang, Fanyang Mo
 
 [**Project**](https://github.com/HowardLi1984/ECDFormer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Official Code for the Decoupled Peak Property Learning Model.
+- Existing predictive approaches lack the consideration of ECD spectra due to the data scarcity, and the interpretability to achieve trust-worthy prediction. Here, we establish a large-scale dataset for Chiral Molecular ECD spectra (CMCDS) and propose ECDFormer for accurate and interpretable ECD spectra prediction. ECDFormer decomposes ECD spectra into peak entities, employs the QFormer architecture to learn peak properties, and renders peaks into spectra. Compared to spectra sequence prediction methods, our decoupled peak prediction approach substantially enhances both accuracy and efficiency, improving the peak symbol accuracy from 37.3% to 72.7% and decreasing the time cost from an average of 4.6 CPU hours to 1.5 seconds.
 </div>
 </div>
 
