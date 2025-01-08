@@ -43,7 +43,7 @@ My research interests include multimodality Learning, visual understanding, and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Computational Science 2024</div><img src='images/ECDFormer_short.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Computational Science 2024</div><img src='images/ECDFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Decoupled peak property learning for efficient and interpretable ECD spectra prediction](https://www.nature.com/articles/s43588-024-00757-7)
