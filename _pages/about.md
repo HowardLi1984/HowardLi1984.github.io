@@ -23,6 +23,8 @@ My research interests include multimodality Learning, visual understanding, and 
 
 
 # 🔥 News
+- *2025.6*: &nbsp;🎉🎉 We release **ChemCoTBench**, the first step-wise reasoning benchmark for chemical tasks.
+- *2025.6*: &nbsp;🎉🎉 One papers accepted by CVPR-2025.
 - *2024.12*: &nbsp;🎉🎉 One papers accepted by **Nature Computational Science**.
 - *2024.08*: &nbsp;🎉🎉 Two papers accepted by The 18th European Conference on Computer Vision(ECCV-2024).
 - *2023.08*: &nbsp;🎉🎉 One paper accepted by The International Conference on Computer Vision(ICCV-2023).
@@ -31,6 +33,18 @@ My research interests include multimodality Learning, visual understanding, and 
 - *2022.08*: &nbsp;🎉🎉 One oral paper accepted by The International Conference on Multimedia and Expo(ICME-2022-Oral).
 
 # 📝 Selected Publications and Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/ChemCoTBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations]([https://arxiv.org/abs/2312.02428](https://howardli1984.github.io/ChemCoTBench.github.io/))
+
+**Hao Li**, He Cao, Bin Feng, Yanjun Shao, Xiangru Tang, Zhiyuan Yan, Li Yuan†, Yonghong Tian†, Yu Li†
+
+[**Project**]([https://github.com/CuriseJia/FreeStyleRet](https://github.com/HowardLi1984/ChemCoTBench)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Official Homepage for the ChemCoTBench, the first step-wise reasoning benchmark for LLMs in Chemical domain.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/FreestyleRet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
