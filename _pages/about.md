@@ -36,12 +36,24 @@ My research interests include multimodal Learning, visual understanding, and AI 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/ChemCoTBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations]([https://arxiv.org/abs/2312.02428](https://howardli1984.github.io/ChemCoTBench.github.io/))
+[Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations](https://howardli1984.github.io/ChemCoTBench.github.io/)
 
 **Hao Li**, He Cao, Bin Feng, Yanjun Shao, Xiangru Tang, Zhiyuan Yan, Li Yuan†, Yonghong Tian†, Yu Li†
 
-[**Project**]([https://github.com/CuriseJia/FreeStyleRet](https://github.com/HowardLi1984/ChemCoTBench)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/HowardLi1984/ChemCoTBench) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Official Homepage for the ChemCoTBench, the first step-wise reasoning benchmark for LLMs in Chemical domain.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/HBI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hierarchical banzhaf interaction for general video-language representation learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10815073)
+
+**Hao Li**, **Peng Jin**, Shuicheng Yan, Li Yuan†, Jie Chen†
+
+[**Project**](https://github.com/jpthu17/HBI) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Official Homepage for the HBI, a new approach that models video-text as game players using multivariate cooperative game theory to handle uncertainty during fine-grained semantic interactions with diverse granularity, flexible combination, and vague intensity.
 </div>
 </div>
 
