@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am Hao Li (李昊 in Chinese), a third-year Ph.D. candidate in the School of Computer Science at Peking University, advised by [Prof. Li Yuan](https://scholar.google.com/citations?user=-5juAR0AAAAJ&hl=en). Before that, I got my Bachelor of Science degree in computer science at Peking University with a Summa Cum Laude.
+Hi there! I am Hao Li (李昊 in Chinese), a fourth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by [Prof. Li Yuan](https://scholar.google.com/citations?user=-5juAR0AAAAJ&hl=en). Before that, I got my Bachelor of Science degree in computer science at Peking University with a Summa Cum Laude.
 
-My research interests include multimodal Learning, visual understanding, and AI for Chemical Science. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=y4va91AAAAAJ'> Google Scholar citations <strong><span id='total_cit'>800+</span></strong></a>.
+My research interests include multimodal Learning, visual understanding, and AI for Chemical Science. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=y4va91AAAAAJ'> Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
 
 # 🔥 News
