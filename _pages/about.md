@@ -24,8 +24,8 @@ My research interests include multimodal Learning, visual understanding, and AI 
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 We release **ChemCoTBench**, the first LLM-benchmark evaluating step-wise reasoning on complex chemical tasks.
-- *2025.06*: &nbsp;🎉🎉 Our SUR-LID(https://github.com/beautyremain/SUR-LID) for Face Forgery Detection accepted by CVPR-2025.
-- *2024.12*: &nbsp;🎉🎉 One papers accepted by **Nature Computational Science**.
+- *2025.06*: &nbsp;🎉🎉 Our [SUR-LID](https://github.com/beautyremain/SUR-LID) for Face Forgery Detection accepted by CVPR-2025.
+- *2024.12*: &nbsp;🎉🎉 Our [ECDFormer](https://github.com/HowardLi1984/ECDFormer) for Efficent Spectra Prediction accepted by **Nature Computational Science**.
 - *2024.08*: &nbsp;🎉🎉 Two papers accepted by The 18th European Conference on Computer Vision(ECCV-2024).
 - *2023.08*: &nbsp;🎉🎉 One paper accepted by The International Conference on Computer Vision(ICCV-2023).
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by Transactions on Image Processing(TIP).
