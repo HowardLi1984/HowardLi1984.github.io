@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Li"
-description              : "Homepage for Hao Li. "
+description              : "Here lies a soul yearning to leave a mark. To achieve, to matter, to prove this life was not lived in vain."
 repository               : "HowardLi1984/HowardLi1984.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Peaking University"
+  bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
