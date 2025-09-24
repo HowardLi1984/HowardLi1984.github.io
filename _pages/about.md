@@ -23,7 +23,7 @@ My research interests include multimodal Learning, visual understanding, and AI 
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 We release **ChemCoTBench**, the first LLM-benchmark evaluating step-wise reasoning on complex chemical tasks.
+- *2025.06*: &nbsp;🎉🎉 We release [ChemCoTBench](https://howardli1984.github.io/ChemCoTBench.github.io/), the first LLM-benchmark evaluating step-wise reasoning on complex chemical tasks, which is accepted by NeurIPS-2025.
 - *2025.06*: &nbsp;🎉🎉 Our [SUR-LID](https://github.com/beautyremain/SUR-LID) for Face Forgery Detection accepted by CVPR-2025.
 - *2024.12*: &nbsp;🎉🎉 Our [ECDFormer](https://github.com/HowardLi1984/ECDFormer) for Efficent Spectra Prediction accepted by **Nature Computational Science**.
 - *2024.08*: &nbsp;🎉🎉 Two papers accepted by The 18th European Conference on Computer Vision(ECCV-2024).
@@ -40,8 +40,8 @@ My research interests include multimodal Learning, visual understanding, and AI 
 
 **Hao Li**, He Cao, Bin Feng, Yanjun Shao, Xiangru Tang, Zhiyuan Yan, Li Yuan†, Yonghong Tian†, Yu Li†
 
-[**Project**](https://github.com/HowardLi1984/ChemCoTBench) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Official Homepage for the ChemCoTBench, the first step-wise reasoning benchmark for LLMs in Chemical domain.
+[**Project**](https://howardli1984.github.io/ChemCoTBench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Official Homepage for the ChemCoTBench, the first step-wise reasoning benchmark for LLMs in the Chemical domain, covering molecular understanding, editing, optimization, and reaction-related predictions. We have contributed [an expert-annotated benchmark dataset](https://huggingface.co/datasets/OpenMol/ChemCoTBench) of 1.5K samples, along with [a high-quality SFT-RL reasoning dataset](https://huggingface.co/datasets/OpenMol/ChemCoTDataset) comprising 22K instances. 
 </div>
 </div>
 
@@ -65,7 +65,7 @@ My research interests include multimodal Learning, visual understanding, and AI 
 **Hao Li**, Yanhao Jia, Peng Jin, Zesen Cheng, Kehan Li, Jialu Sui, Chang Liu, Li Yuan
 
 [**Project**](https://github.com/CuriseJia/FreeStyleRet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Official Code for the FreestyleRet framework. Official Released for the Diversified-Style Retrieval Dataset (DSR).
+- Official Code for the FreestyleRet framework. Official Release for the Diversified-Style Retrieval Dataset (DSR).
 </div>
 </div>
 
@@ -94,6 +94,7 @@ My research interests include multimodal Learning, visual understanding, and AI 
 </div>
 
 # 🎖 Honors and Awards
+- *2025.9* <span style="color:red">National Scholarship for Doctoral Students (Top-3), Peking University</span>
 - *2023.9* Hongqiao Scholarship in Peking University (Top 1%). 
 
 # 📖 Educations
