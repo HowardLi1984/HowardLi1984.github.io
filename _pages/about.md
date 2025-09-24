@@ -89,12 +89,12 @@ My research interests include multimodal Learning, visual understanding, and AI 
 **Hao Li**, Peng Jin, Zesen Cheng, Kehan Li, Chang Liu, Li Yuan, Jie Chen
 
 [**Project**](https://github.com/jpthu17/DiffusionRet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Official Code for the DiffusionRet model.
+- Official Code for the DiffusionRet model. We propose DiffusionRet, a generative text-video retrieval framework that models retrieval as generating joint distributions from noise. Unlike standard methods, it excels not only on standard benchmarks but also in retrieving out-of-distribution videos, demonstrating superior generalization.
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2025.9* <span style="color:red">National Scholarship for Doctoral Students (Top-3), Peking University</span>
+- *2025.9* <span style="color:red">**National Scholarship** for Doctoral Students (Top-3), Peking University</span>
 - *2023.9* Hongqiao Scholarship in Peking University (Top 1%). 
 
 # 📖 Educations
