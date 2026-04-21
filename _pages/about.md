@@ -33,7 +33,7 @@ My research interests include multimodal Learning, visual understanding, and AI 
 - *2022.08*: &nbsp;🎉🎉 One oral paper accepted by The International Conference on Multimedia and Expo(ICME-2022-Oral).
 
 # 📝 Selected Publications and Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/ChemCoTBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ChemCoTBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations](https://howardli1984.github.io/ChemCoTBench.github.io/)
