@@ -100,7 +100,8 @@ My research interests include multimodal Learning, visual understanding, and AI 
 # 📖 Educations
 - *2017.09 - 2021.06*, Bachelor, in School of Electronics Engineering and Computer Science (EECS), Peking University.
 - *2021.09 - 2023.09*, Master, School of Electronics and Computer Engineering (ECE), Peking University.
-- *2023.09 - now*, PhD Candidate, School of Computer Science, Peking University.
+- *2023.09 - 2026.07*, PhD, School of Computer Science, Peking University.
+- *2026.06 - now*, Senior Engineer, **Qwen** Post-Training Team.
 
 # 💻 Internships
 - *2020.07 - 2021.09*, Mentored by [Xu Li](https://scholar.google.com/citations?hl=en&user=qtSYO44AAAAJ&view_op=list_works&sortby=pubdate), Cognitive Computing Lab, Baidu Research, Beijing, China.
