@@ -32,7 +32,7 @@ My research interests include multimodal Learning, visual understanding, and AI 
 - *2023.04*: &nbsp;🎉🎉 Three paper accepted by The International Joint Conference on Artifical Intelligence(IJCAI-2023).
 - *2022.08*: &nbsp;🎉🎉 One oral paper accepted by The International Conference on Multimedia and Expo(ICME-2022-Oral).
 
-# 📝 Selected Publications and Preprints
+# 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ChemCoTBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
