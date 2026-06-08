@@ -23,6 +23,7 @@ My research interests include multimodal Learning, visual understanding, and AI 
 
 
 # 🔥 News
+- *2026.5*: &nbsp;🎉🎉 Our [MHE-LLama-8B](https://github.com/Lyu6PosHao/HME) for unified molecule understanding & generation via LLM has accepted by **Nature Communications**.
 - *2025.06*: &nbsp;🎉🎉 We release [ChemCoTBench](https://howardli1984.github.io/ChemCoTBench.github.io/), the first LLM-benchmark evaluating step-wise reasoning on complex chemical tasks, which is accepted by NeurIPS-2025.
 - *2025.06*: &nbsp;🎉🎉 Our [SUR-LID](https://github.com/beautyremain/SUR-LID) for Face Forgery Detection accepted by CVPR-2025.
 - *2024.12*: &nbsp;🎉🎉 Our [ECDFormer](https://github.com/HowardLi1984/ECDFormer) for Efficent Spectra Prediction accepted by **Nature Computational Science**.
@@ -33,6 +34,18 @@ My research interests include multimodal Learning, visual understanding, and AI 
 - *2022.08*: &nbsp;🎉🎉 One oral paper accepted by The International Conference on Multimedia and Expo(ICME-2022-Oral).
 
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2026</div><img src='images/MHE-intro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding](https://github.com/Lyu6PosHao/HME)
+
+**Hao Li**, **Liuzhenghao Lv**, Yu Wang, Zijun Chen, Yuyang Liu, Li Yuan†, Yonghong Tian†
+
+[**Project**](https://howardli1984.github.io/ChemCoTBench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Official Homepage for MHE, a Nature Communications work on heterogeneous molecular encoding for chemical language models. MHE bridges molecular structures and natural language by unifying sequence, topology, geometry, and fragment-level information, supporting bidirectional molecular understanding and generation across chemical-linguistic space.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ChemCoTBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
