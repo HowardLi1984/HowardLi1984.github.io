@@ -23,7 +23,7 @@ My research interests include multimodal Learning, visual understanding, and AI 
 
 
 # 🔥 News
-- *2026.5*: &nbsp;🎉🎉 Our [MHE-LLama-8B](https://github.com/Lyu6PosHao/HME) for unified molecule understanding & generation via LLM has accepted by **Nature Communications**.
+- *2026.05*: &nbsp;🎉🎉 Our [MHE-LLama-8B](https://github.com/Lyu6PosHao/HME) for unified molecule understanding & generation via LLM has accepted by **Nature Communications**.
 - *2025.06*: &nbsp;🎉🎉 We release [ChemCoTBench](https://howardli1984.github.io/ChemCoTBench.github.io/), the first LLM-benchmark evaluating step-wise reasoning on complex chemical tasks, which is accepted by NeurIPS-2025.
 - *2025.06*: &nbsp;🎉🎉 Our [SUR-LID](https://github.com/beautyremain/SUR-LID) for Face Forgery Detection accepted by CVPR-2025.
 - *2024.12*: &nbsp;🎉🎉 Our [ECDFormer](https://github.com/HowardLi1984/ECDFormer) for Efficent Spectra Prediction accepted by **Nature Computational Science**.
@@ -41,7 +41,7 @@ My research interests include multimodal Learning, visual understanding, and AI 
 
 **Hao Li**, **Liuzhenghao Lv**, Yu Wang, Zijun Chen, Yuyang Liu, Li Yuan†, Yonghong Tian†
 
-[**Project**](https://howardli1984.github.io/ChemCoTBench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/Lyu6PosHao/HME) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Official Homepage for MHE, a Nature Communications work on heterogeneous molecular encoding for chemical language models. MHE bridges molecular structures and natural language by unifying sequence, topology, geometry, and fragment-level information, supporting bidirectional molecular understanding and generation across chemical-linguistic space.
 </div>
 </div>
