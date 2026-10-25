@@ -108,7 +108,15 @@ My research interests include multimodal Learning, visual understanding, and AI 
 
 # 🎖 Honors and Awards
 - *2025.9* <span style="color:red">**National Scholarship** for Doctoral Students (Top-3), Peking University</span>
-- *2023.9* Hongqiao Scholarship in Peking University (Top 1%). 
+- *2023.9* Hongqiao Scholarship in Peking University (Top 1%).
+
+<span class="anchor" id="invited-talks"></span>
+
+# 🎤 Invited Talks
+- *2026.10.30*, “OpenAI4S”口头报告，粤港澳大湾区“AI4S”论坛，基础大模型分论坛
+- *2026.3.27*, “LLM for Science”口头报告，香港科技大学广州校区
+- *2026.1.8*, 口头报告, 北京大学 “AI+化学” 博士生学术讲座
+
 
 # 📖 Educations
 - *2017.09 - 2021.06*, Bachelor, in School of Electronics Engineering and Computer Science (EECS), Peking University.
