@@ -21,6 +21,7 @@ Hi there! I am Hao Li (李昊 in Chinese), a graduated Ph.D. from the School of 
 
 My research interests include multimodal Learning, visual understanding, and AI for Chemical Science. I have published more than 20 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=y4va91AAAAAJ'> Google Scholar citations <strong><span id='total_cit'>2300+</span></strong></a>.
 
+<span class="anchor" id="news"></span>
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Our [MHE-LLama-8B](https://github.com/Lyu6PosHao/HME) for unified molecule understanding & generation via LLM has accepted by **Nature Communications**.
@@ -32,6 +33,8 @@ My research interests include multimodal Learning, visual understanding, and AI 
 - *2023.06*: &nbsp;🎉🎉 One paper accepted by Transactions on Image Processing(TIP).
 - *2023.04*: &nbsp;🎉🎉 Three paper accepted by The International Joint Conference on Artifical Intelligence(IJCAI-2023).
 - *2022.08*: &nbsp;🎉🎉 One oral paper accepted by The International Conference on Multimedia and Expo(ICME-2022-Oral).
+
+<span class="anchor" id="selected-publications"></span>
 
 # 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2026</div><img src='images/MHE-intro.png' alt="sym" width="100%"></div></div>
@@ -106,6 +109,8 @@ My research interests include multimodal Learning, visual understanding, and AI 
 </div>
 </div>
 
+<span class="anchor" id="honors-and-awards"></span>
+
 # 🎖 Honors and Awards
 - *2025.9* <span style="color:red">**National Scholarship** for Doctoral Students (Top-3), Peking University</span>
 - *2023.9* Hongqiao Scholarship in Peking University (Top 1%).
@@ -117,12 +122,15 @@ My research interests include multimodal Learning, visual understanding, and AI 
 - *2026.3.27*, “LLM for Science”口头报告，香港科技大学广州校区
 - *2026.1.8*, 口头报告, 北京大学 “AI+化学” 博士生学术讲座
 
+<span class="anchor" id="educations"></span>
 
 # 📖 Educations
 - *2017.09 - 2021.06*, Bachelor, in School of Electronics Engineering and Computer Science (EECS), Peking University.
 - *2021.09 - 2023.09*, Master, School of Electronics and Computer Engineering (ECE), Peking University.
 - *2023.09 - 2026.07*, PhD, School of Computer Science, Peking University.
 - *2026.06 - now*, Senior Engineer, **Qwen** Post-Training Team.
+
+<span class="anchor" id="internships"></span>
 
 # 💻 Internships
 - *2020.07 - 2021.09*, Mentored by [Xu Li](https://scholar.google.com/citations?hl=en&user=qtSYO44AAAAJ&view_op=list_works&sortby=pubdate), Cognitive Computing Lab, Baidu Research, Beijing, China.
